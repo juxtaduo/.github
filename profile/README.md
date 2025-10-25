@@ -8,7 +8,7 @@ We're Juxtaduo, a duo of passionate developers interested in web technologies, p
 - 📚 Always learning
 
 ### Skills & Technologies
-![Our Skills](https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css,react,nodejs,git,linux,docker&perline=10)
+![Our Skills](https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css,react,nodejs,git,linux,docker)
 
 ### Connect with Us
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
