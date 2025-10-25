@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Juxtaduo, a duo of passionate developers interested in web technologies, programming languages, and open-source contributions.
+We're Juxtaduo, a duo of passionate developers interested in web technologies, programming languages, and open-source contributions.
 
 ### About Us
 - 🌟 Exploring new technologies and frameworks
