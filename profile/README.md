@@ -1,7 +1,21 @@
 ## Hi there 👋
 
-<!--
+I'm Juxtaduo, a duo of passionate developers interested in web technologies, programming languages, and open-source contributions.
 
+### About Us
+- 🌟 Exploring new technologies and frameworks
+- 💻 Coding enthusiast
+- 📚 Always learning
+
+### Skills & Technologies
+![Our Skills](https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css,react,nodejs,git,linux,docker&perline=10)
+
+### Connect with Us
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+<!-- Hidden comments for future updates -->
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
