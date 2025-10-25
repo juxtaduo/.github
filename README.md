@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We're Juxtaduo, a group of passionate developers interested in web technologies, programming languages, and open-source contributions.
+We're Juxtaduo, a duo of passionate developers interested in web technologies, programming languages, and open-source contributions.
 
 ### About Us
 - 🌟 Exploring new technologies and frameworks
@@ -8,7 +8,7 @@ We're Juxtaduo, a group of passionate developers interested in web technologies,
 - 📚 Always learning
 
 ### Skills & Technologies
-![Our Skills](https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css,react,nodejs,git,linux,docker&perline=10)
+![Our Skills](https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css,react,nodejs,git,linux,docker)
 
 ### Connect with Us
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
